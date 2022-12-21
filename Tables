@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <title> Most played Nentendo switch games </title>  
+    </head>
+<body>
+    
+    <table border="1" width="100%">
+        <thead>
+        <tr>
+            <th>Knobb</th>
+            <th>BlueBird</th>
+            <th>Rayray</th>
+            <th>Redrose</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>Overwatch 2 (605 hrs)</td>
+            <td>Minecraft (1,365 hrs)</td>
+            <td>Minecraft (870 hrs)</td>
+            <td>Animal Crossing: New Horizons (255 hrs)</td>
+        </tr>
+        <tr>
+            <td>Animal Crossing: New horizon (580 hrs)</td>
+            <td>Super Kirby clash (190 hrs)</td>
+            <td>Animal Crossing:New Horizons (565 hrs)</td>
+            <td>Minecraft (235 hrs)</td>
+        </tr>
+        <tr>
+            <td>Legend Of Zelda: Breath of the wild (200 hrs)</td>
+            <td>SUPER MARIO MAKER 2 (345 hrs)</td>
+            <td>The Legend Of Zelda: Breath of the wild (75 hrs)</td>
+            <td>Pokemon Shield (70 hrs)</td>
+        </tr>
+        <tr>
+            <td>Minecraft Dungeons and Super Kirby clash (45 hrs)</td>
+            <td>Animal Crossing: New Horizons (180 hrs)</td>
+            <td>SUPER MARIO MAKER 2 (45 hrs)</td>
+            <td>Overwatch 2 (45 hrs)</td>
+        </tr>
+        </tr>
+        </tbody>
+        <tfoot>
+          <tr>
+            <th>Total Hours: 1,430</th>
+            <th>Total Hours: 2,080</th>
+            <th>Total Hours: 1,555</th>
+            <th>Total Hours: 605 </th>
+        </tr>
+        </tfoot>
+    </table> 
+</body>
+    </html>
